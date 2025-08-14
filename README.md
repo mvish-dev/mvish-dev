@@ -1,40 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mahavishnu G</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<!-- Banner or Header Image -->
+![Header](https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/assets/github-header-image.png)
 
-- 🔭 I’m currently working at **Clocktech Solutions & Cheran Properties**
-- 🌱 I’m currently learning **Advanced Laravel, React JS**
-- 💬 Ask me about **PHP, Laravel, JavaScript, MySQL, Bootstrap**
-- 📫 How to reach me **mahaji5454@gmail.com**
-- ⚡ Fun fact **I love building CRM & Real Estate tools**
+<h1 align="center">Hi 👋, I'm Mahavishnu G</h1>
+<h3 align="center">💻 Web Developer | Laravel • PHP • JavaScript • MySQL | India</h3>
 
 ---
 
-### 🛠 Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,mysql,react,firebase" />
+### 🚀 About Me
+- 🔭 Currently working at **Clocktech Solutions** & **Cheran Properties**
+- 💡 Passionate about **building CRM, Real Estate, and E-commerce web apps**
+- 🌱 Learning **Advanced Laravel, React JS**
+- 📫 Reach me at **mahaji5454@gmail.com**
+- ⚡ Fun fact: *I can turn coffee into clean Laravel code*
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,mysql,react,firebase,git" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-- **[Cheran CRM Web App](https://app.cheransoftwares.com/login)** – Laravel CRM with attendance, tasks, and live chat.
-- **[Eprinton](#)** – Printing business management system.
-- **[Induvedam](https://eshopon.co.in/login)** – PHP CMS + e-commerce features.
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Cheran CRM Web App](https://app.cheransoftwares.com/login) | CRM for construction companies: attendance with location, leads, reporting, Meta Ad Manager integration, live chat | Laravel, MySQL, Pusher |
+| **Eprinton** | Printing business management: leads, orders, invoices, salaries, payouts, SMS API | Laravel, MySQL |
+| [Induvedam](https://eshopon.co.in/login) | PHP CMS & e-commerce: multi-role admin, OTP email verification, donations, galleries, blogs | PHP, MySQL |
+| **Job Offer Application** | Lists part-time & full-time jobs with links to apply | Java |
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mvish-dev&show_icons=true&theme=tokyonight" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvish-dev&layout=compact&theme=tokyonight" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mvish-dev&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvish-dev&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
-### 🌐 Connect with me
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mahaji5454@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mvish-dev&theme=tokyo-night)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:mahaji5454@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mvish-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
