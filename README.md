@@ -1,5 +1,6 @@
-<!-- Banner or Header Image -->
-![Header](https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/pic1.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/pic2.jpg" height="20%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mahavishnu G</h1>
 <h3 align="center">💻 Web Developer | Laravel • PHP • JavaScript • MySQL | India</h3>
