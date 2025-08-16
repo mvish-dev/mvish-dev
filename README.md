@@ -26,8 +26,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Cheran CRM Web App](https://app.cheransoftwares.com/login) | CRM for construction companies: attendance with location, leads, reporting, Meta Ad Manager integration, live chat | Laravel, MySQL, Pusher |
-| **Eprinton** | Printing business management: leads, orders, invoices, salaries, payouts, SMS API | Laravel, MySQL |
-| [Induvedam](https://eshopon.co.in/login) | PHP CMS & e-commerce: multi-role admin, OTP email verification, donations, galleries, blogs | PHP, MySQL |
+| [Eprinton](https://eshopon.co.in/login) | Printing business management: leads, orders, invoices, salaries, payouts, SMS API | Laravel, MySQL |
+| **Induvedam** | PHP CMS & e-commerce: multi-role admin, OTP email verification, donations, galleries, blogs | PHP, MySQL |
 | **Job Offer Application** | Lists part-time & full-time jobs with links to apply | Java |
 
 ---
