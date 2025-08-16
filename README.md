@@ -1,5 +1,5 @@
 <!-- Banner or Header Image -->
-![Header](https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/Google_AI_Studio.png)
+![Header](https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/pic1.jpg)
 
 <h1 align="center">Hi 👋, I'm Mahavishnu G</h1>
 <h3 align="center">💻 Web Developer | Laravel • PHP • JavaScript • MySQL | India</h3>
