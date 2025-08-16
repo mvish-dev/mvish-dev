@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **Clocktech Solutions** & **Cheran Properties**
+- 🔭 Currently working as an freelancer for **Clocktech Solutions** & **Cheran Properties**
 - 💡 Passionate about **building CRM, Real Estate, and E-commerce web apps**
 - 🌱 Learning **Advanced Laravel, React JS**
 - 📫 Reach me at **mahaji5454@gmail.com**
@@ -48,7 +48,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+  <a href="https://www.linkedin.com/in/vishnu-developer-welcome" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:mahaji5454@gmail.com">
