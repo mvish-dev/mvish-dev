@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/pic2.jpg" height="20%" />
+  <img src="https://raw.githubusercontent.com/mvish-dev/mvish-dev/main/pic2.jpg" height="100px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahavishnu G</h1>
